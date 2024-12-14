@@ -19,7 +19,7 @@ Programming project for university course "Construction and Analysis of Efficien
 3. **Run the Code:**
 
     ```bash
-    python solution.py < input.txt
+    python solution.py < sample1.txt
     ```
 
 3. **Alternatively, Run Tests:**
