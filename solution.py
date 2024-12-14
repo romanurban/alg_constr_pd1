@@ -1,5 +1,7 @@
+import sys
+
 def main():
-    import sys
+    # Ielasīt ievadu 
     data = sys.stdin.read().strip().split()
     if not data:
         return
